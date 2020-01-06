@@ -1,0 +1,8 @@
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Repository/MyReposInt.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Model/CPU.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Controllers/MainController.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Services/ServiceCPU.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/MyApplication.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Repository/CRUDRepository.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Repository/MyReposIntImpl.java
+/home/stepan/javaDocker/kursov_DB_docker/src/main/java/com/stepan/kursov/Controllers/CPUController.java

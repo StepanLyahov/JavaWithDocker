@@ -1,0 +1,8 @@
+com/stepan/kursov/Controllers/MainController.class
+com/stepan/kursov/Repository/MyReposIntImpl.class
+com/stepan/kursov/Repository/MyReposInt.class
+com/stepan/kursov/Repository/CRUDRepository.class
+com/stepan/kursov/Services/ServiceCPU.class
+com/stepan/kursov/Controllers/CPUController.class
+com/stepan/kursov/MyApplication.class
+com/stepan/kursov/Model/CPU.class
